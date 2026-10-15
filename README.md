@@ -54,10 +54,7 @@ Hệ thống chỉ gửi tài liệu cho AI đọc, không cần dàn trang ph�
 
 ### Vì sao lập trình viên luôn chọn Markdown để viết README?
 
-- Viết nhanh bằng bất kỳ trình soạn thảo nào, không cần học nhiều.
-- Đọc được ngay dưới dạng văn bản thô, kể cả khi chưa render.
-- GitHub tự render đẹp mắt, không cần thêm công cụ.
-- Diff và quản lý phiên bản bằng Git gọn gàng, vì file ngắn và ít thẻ.
-- Là chuẩn chung của cộng đồng, nên ai cũng hiểu và AI cũng đọc tốt.
-
-> **Lưu ý:** khi cần giao diện phức tạp (website, email có thiết kế), HTML vẫn là lựa chọn phù hợp. Markdown tối ưu cho *tài liệu*, không phải cho *giao diện*.
+- Viết nhanh bằng bất kỳ trình soạn thảo nào
+- Đọc được ngay dưới dạng văn bản thô, kể cả khi chưa render
+- GitHub tự render đẹp mắt, không cần thêm công cụ
+- Diff và quản lý phiên bản bằng Git gọn gàng, vì file ngắn và ít thẻ
